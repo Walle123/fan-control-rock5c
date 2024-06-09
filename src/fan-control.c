@@ -118,7 +118,7 @@ int write_speed(int speed)
     }
     else if (fan_mode == 1)
     {
-        return write_value("/sys/devices/platform/pwm-fan/hwmon/hwmon8/pwm1", buffer);
+        return write_value("/sys/devices/platform/pwm-fan/hwmon/hwmon7/pwm1", buffer);
     }
 
     return -1;
