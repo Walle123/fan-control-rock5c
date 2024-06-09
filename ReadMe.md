@@ -1,3 +1,8 @@
+Fork of fan-control-rock5c by Nick Peng
+==============
+I just needed to change a hardware id for it to work on ROCK5C.
+Let me know if you have any issues.
+
 Fan-control 
 ==============
 
